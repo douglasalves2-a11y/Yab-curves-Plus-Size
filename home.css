@@ -289,7 +289,7 @@ body {
 /* ── CORREÇÃO: aspect-ratio no lugar de height fixa ── */
 .produto-img-wrap {
     width: 100%;
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 4 / 3;
     overflow: hidden;
     display: block;
 }
